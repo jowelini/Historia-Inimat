@@ -1,4 +1,7 @@
-Guion Inimat
-============
+Historia Inimat
+===============
 
-Repositorio del guion de la historia del proyecto INIMAT
+#### Repositorio del guion y el story board de la historia del [Proeycto INIMAT][]
+
+  [Proeycto INIMAT]: http://inimat.org/
+
