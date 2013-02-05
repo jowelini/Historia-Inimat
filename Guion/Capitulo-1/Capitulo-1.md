@@ -1,5 +1,7 @@
-# Guion INIMAT
-## CAPÍTULO 1 (borrador)
+Guion INIMAT
+============
+
+### CAPÍTULO 1 (borrador)
 
 ###### FUNDIDO DE APERTURA
 
