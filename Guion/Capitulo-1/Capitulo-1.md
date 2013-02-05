@@ -1,9 +1,9 @@
 # Guion INIMAT
 ## CAPÍTULO 1 (borrador)
 
-##### FUNDIDO DE APERTURA
+###### FUNDIDO DE APERTURA
 
-##### FONDO BLANCO
+###### FONDO BLANCO
 
 ###### VOZ FEMENINA
     (con ternura) No deberías estar aquí niño llorón.
